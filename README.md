@@ -48,11 +48,4 @@
   </a>
 </div>
 
----
-
-<div align="center">
-  <h3>👀 Visitantes:</h3>
-  <img src="https://profile-counter.glitch.me/{christian-a579}/count.svg"/>
-</div>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer"/>
