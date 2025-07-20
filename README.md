@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Bem-vindo(a)+ao+meu+repositório!;+😁+Vamos+construir+algo+incrível!)](https://git.io/typing-svg)
 
 ## 
-📌 **Experiência:** 
+📌 **Experiência: ** 
 Sou Engenheiro de Software Júnior na TSP, uma assessoria e consultoria focada em soluções digitais. Atuo principalmente com desenvolvimento web, contribuindo para projetos sob demanda e sistemas internos voltados para clientes diversos. Embora os meus projetos profissionais sejam privados (por confidencialidade e contrato), aqui você vai encontrar meus projetos pessoais — onde aplico e aprimoro minhas habilidades no dia a dia.
 
 ---
