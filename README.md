@@ -28,7 +28,7 @@ Sou Engenheiro de Software Júnior na TSP, uma assessoria e consultoria focada e
 
 ---
 
-### 📬 Contatos:
+### 📬 Contatos :
 <div align="center">
   <a href="mailto:ca3072907@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/>
