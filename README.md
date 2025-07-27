@@ -8,7 +8,7 @@ Sou Engenheiro de Software Júnior na TSP, uma assessoria e consultoria focada e
 
 ---
 
-📌 **Cursando: **
+📌 **Cursando:**
 - **Engenharia de Software** - Universidade Estácio (2º semestre)
 - **Redes de Computadores** - Universidade Cruzeiro do Sul (3º semestre)
 
