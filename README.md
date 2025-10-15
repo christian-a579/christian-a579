@@ -4,7 +4,9 @@
 
 ## 
 📌 **Experiência:** 
-Realizei um Estágio de Software na TSP, uma assessoria e consultoria focada em soluções digitais. Atuo principalmente com desenvolvimento web, contribuindo para projetos sob demanda e sistemas internos voltados para clientes diversos. Embora os meus projetos profissionais sejam privados (por confidencialidade e contrato), aqui você vai encontrar meus projetos pessoais — onde aplico e aprimoro minhas habilidades no dia a dia.
+1.Atuando como Desenvolvedor Full Stack na Aser Security, utilizando frameworks, banco de dados... tais como Sencha Ext.JS, MySQL, Postman, Node.js e Express.js.
+
+2.Realizei um Estágio de Software na TSP, uma assessoria e consultoria focada em soluções digitais. Atuo principalmente com desenvolvimento web, contribuindo para projetos sob demanda e sistemas internos voltados para clientes diversos. Embora os meus projetos profissionais sejam privados (por confidencialidade e contrato), aqui você vai encontrar meus projetos pessoais — onde aplico e aprimoro minhas habilidades no dia a dia.
 
 ---
 
