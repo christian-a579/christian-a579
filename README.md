@@ -12,8 +12,8 @@
 ---
 
 📌 **Cursando:**
-- **Engenharia de Software** - Universidade Estácio (2º semestre)
-- **Redes de Computadores** - Universidade Cruzeiro do Sul (3º semestre)
+- **Engenharia de Software** - Universidade Estácio (3º semestre)
+- **Redes de Computadores** - Universidade Cruzeiro do Sul (4º semestre)
 
 ---
 
