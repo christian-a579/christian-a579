@@ -19,7 +19,7 @@
 
 ### 📖 Tecnologias que uso regularmente:
 <div align="center">
-    <img src="https://img.shields.io/badge/node.js-3670A0?style=for-the-badge&logo=node.js&logoColor=ffdd54" />
+    <img src="https://img.shields.io/badge/node.js-000000?style=for-the-badge&logo=node.js&logoColor=006400" />
     <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=fffff" />
     <img src="https://img.shields.io/badge/React-3670A0?style=for-the-badge&logo=react&logoColor=ffdd54" />
     <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
