@@ -5,10 +5,9 @@
 ## 
 📌 **Experiência:** 
 
-- Atuando como Desenvolvedor Full Stack na Aser Security, utilizando frameworks, banco de dados... tais como Sencha Ext.JS, MySQL, Postman, Node.js e Express.js.
+- Atuando como Desenvolvedor Full Stack na Aser Security, utilizando tecnologias como Sencha Ext JS, Node.js, Express.js e MySQL, além de ferramentas como Postman para desenvolvimento e consumo de APIs.
 
-- Realizei um Estágio de Software na TSP, uma assessoria e consultoria focada em soluções digitais. Atuo principalmente com desenvolvimento web, contribuindo para projetos sob demanda e sistemas internos voltados para clientes diversos. Embora os meus projetos profissionais sejam privados (por confidencialidade e contrato), aqui você vai encontrar meus projetos pessoais — onde aplico e aprimoro minhas habilidades no dia a dia.
-
+- Estágio em desenvolvimento de software na TSP, empresa de consultoria em soluções digitais, com atuação em desenvolvimento web para projetos sob demanda e sistemas internos voltados a múltiplos clientes. Experiência em ambientes reais de produção, seguindo requisitos de negócio e prazos. Projetos profissionais sob confidencialidade.
 ---
 
 📌 **Cursando:**
