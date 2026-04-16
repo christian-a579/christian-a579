@@ -33,22 +33,17 @@
 ---
 
 ### 📬 Contatos :
-<div align="center">
-  <a href="mailto:ca3072907@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/>
-  <a href="https://www.linkedin.com/in/christian-alves-de-souza-2a4a47327/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
-  <a href="https://www.instagram.com/griz_chris/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</div>
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ca3072907@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-alves-de-souza-2a4a47327/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/griz_chris/)
 
 ---
 
 <div align="center">
   <h3>📊 Minhas Estatísticas:</h3>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=christian-a579&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=000000">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christian-a579&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=000000" alt="Linguagens mais usadas">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christian-a579&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=000000" alt="Linguagens mais usadas" style="display: block; ">
   </a>
   <a href="https://github-readme-stats.vercel.app/api?username=christian-a579&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=000000">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=christian-a579&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=000000" alt="Christian Alves GitHub Stats">
