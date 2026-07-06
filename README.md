@@ -48,13 +48,10 @@
 ---
 
 <div align="center">
-  <h3>📊 Minhas Estatísticas:</h3>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=christian-a579&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=000000">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christian-a579&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=000000" alt="Linguagens mais usadas" style="display: block; ">
-  </a>
-  <a href="https://github-readme-stats.vercel.app/api?username=christian-a579&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=000000">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=christian-a579&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=000000" alt="Christian Alves GitHub Stats">
-  </a>
+  ## 📊 Tech Stack
+
+![Tech Stack](./assets/tech-stack.svg)
+
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer"/>
