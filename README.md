@@ -3,9 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Bem-vindo(a)+ao+meu+repositório!;+😁+Vamos+construir+algo+incrível!)](https://git.io/typing-svg)
 
 ## 
-📌 **Experiência:** 
+📌 **Experiências:** 
 
-- Atuando como Desenvolvedor Full Stack na Aser Security, utilizando tecnologias como Sencha Ext JS, Node.js, Express.js e MySQL, além de ferramentas como Postman para desenvolvimento e consumo de APIs.
+- Desenvolvedor Full Stack na Aser Security, utilizando tecnologias como Sencha Ext JS, Node.js, Express.js e MySQL, além de ferramentas como Postman para desenvolvimento e consumo de APIs.
 
 - Estágio em desenvolvimento de software na TSP, empresa de consultoria em soluções digitais, com atuação em desenvolvimento web para projetos sob demanda e sistemas internos voltados a múltiplos clientes. Experiência em ambientes reais de produção, seguindo requisitos de negócio e prazos. Projetos profissionais sob confidencialidade.
 ---
@@ -48,7 +48,6 @@
 ---
 
 <div align="center">
-  ## 📊 Tech Stack
 
 ![Tech Stack](./assets/tech-stack.svg)
 
