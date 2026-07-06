@@ -72,7 +72,9 @@ async function main() {
     const languages = await githubFetch(repo.languages_url);
 
     for (const [language, bytes] of Object.entries(languages)) {
-      if (language === "Java") addScore(scores, "Java", bytes);
+      if (language === "Java") {
+  addScore(scores, "Java", bytes + 80000);
+}
       if (language === "TypeScript") addScore(scores, "TypeScript", bytes);
       if (language === "JavaScript") addScore(scores, "JavaScript", bytes);
       if (language === "HTML") addScore(scores, "HTML/CSS", bytes);
