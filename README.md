@@ -18,7 +18,7 @@
 
 ### 📖 Tecnologias que uso regularmente:
 <div align="center">
-    <img src="https://img.shields.io/badge/java-000000?style=for-the-badge&logo=java&logoColor=006400" />
+    ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white
     <img src="https://img.shields.io/badge/node.js-000000?style=for-the-badge&logo=node.js&logoColor=006400" />
     <img src="https://img.shields.io/badge/MySQL-4682B4?style=for-the-badge&logo=mysql&logoColor=white" />
     <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=4682B4" />
