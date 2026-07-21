@@ -16,25 +16,25 @@
         <rect x="180" y="99" width="98.8" height="15" rx="7.5" fill="#22c55e"/>
         <text x="580" y="112" fill="#ffffff" font-size="14" font-family="Arial, sans-serif">26%</text>
       
-        <text x="32" y="146" fill="#ffffff" font-size="14" font-family="Arial, sans-serif">Angular</text>
+        <text x="32" y="146" fill="#ffffff" font-size="14" font-family="Arial, sans-serif">Java</text>
         <rect x="180" y="133" width="380" height="15" rx="7.5" fill="#1f2937"/>
         <rect x="180" y="133" width="68.39999999999999" height="15" rx="7.5" fill="#22c55e"/>
         <text x="580" y="146" fill="#ffffff" font-size="14" font-family="Arial, sans-serif">18%</text>
       
-        <text x="32" y="180" fill="#ffffff" font-size="14" font-family="Arial, sans-serif">Node.js / Express</text>
+        <text x="32" y="180" fill="#ffffff" font-size="14" font-family="Arial, sans-serif">Angular</text>
         <rect x="180" y="167" width="380" height="15" rx="7.5" fill="#1f2937"/>
         <rect x="180" y="167" width="68.39999999999999" height="15" rx="7.5" fill="#22c55e"/>
         <text x="580" y="180" fill="#ffffff" font-size="14" font-family="Arial, sans-serif">18%</text>
       
-        <text x="32" y="214" fill="#ffffff" font-size="14" font-family="Arial, sans-serif">Java</text>
+        <text x="32" y="214" fill="#ffffff" font-size="14" font-family="Arial, sans-serif">Node.js / Express</text>
         <rect x="180" y="201" width="380" height="15" rx="7.5" fill="#1f2937"/>
-        <rect x="180" y="201" width="64.6" height="15" rx="7.5" fill="#22c55e"/>
-        <text x="580" y="214" fill="#ffffff" font-size="14" font-family="Arial, sans-serif">17%</text>
+        <rect x="180" y="201" width="68.39999999999999" height="15" rx="7.5" fill="#22c55e"/>
+        <text x="580" y="214" fill="#ffffff" font-size="14" font-family="Arial, sans-serif">18%</text>
       
         <text x="32" y="248" fill="#ffffff" font-size="14" font-family="Arial, sans-serif">HTML/CSS</text>
         <rect x="180" y="235" width="380" height="15" rx="7.5" fill="#1f2937"/>
-        <rect x="180" y="235" width="57" height="15" rx="7.5" fill="#22c55e"/>
-        <text x="580" y="248" fill="#ffffff" font-size="14" font-family="Arial, sans-serif">15%</text>
+        <rect x="180" y="235" width="53.199999999999996" height="15" rx="7.5" fill="#22c55e"/>
+        <text x="580" y="248" fill="#ffffff" font-size="14" font-family="Arial, sans-serif">14%</text>
       
         <text x="32" y="282" fill="#ffffff" font-size="14" font-family="Arial, sans-serif">JavaScript</text>
         <rect x="180" y="269" width="380" height="15" rx="7.5" fill="#1f2937"/>
